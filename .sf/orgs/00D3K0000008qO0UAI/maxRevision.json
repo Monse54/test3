@@ -1,5 +1,5 @@
 {
-    "serverMaxRevisionCounter": 9392,
+    "serverMaxRevisionCounter": 9398,
     "sourceMembers": {
         "ListView__Account.My_Account_All": {
             "serverRevisionCounter": 9371,
@@ -1469,6 +1469,12 @@
             "serverRevisionCounter": 73,
             "lastRetrievedFromServer": 73,
             "memberType": "CustomObject",
+            "isNameObsolete": false
+        },
+        "ApexClass__AccountAfterTriggerHandler": {
+            "serverRevisionCounter": 9398,
+            "lastRetrievedFromServer": 9398,
+            "memberType": "ApexClass",
             "isNameObsolete": false
         }
     }
