@@ -2295,6 +2295,7 @@
         <members>Account.Theme__c</members>
         <members>Account.This_Month_Churned__c</members>
         <members>Account.This_Month_Customer__c</members>
+        <members>Account.Today_Date__c</members>
         <members>Account.Top_Account__c</members>
         <members>Account.Total_Allocated_Budget__c</members>
         <members>Account.Total_Burn__c</members>
