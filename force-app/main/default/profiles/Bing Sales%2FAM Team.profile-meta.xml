@@ -105,6 +105,11 @@
     <description>Sales Team and AM Team</description>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Account.Custom_Formula_Field__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Account.Previous_Date__c</field>
         <readable>false</readable>
     </fieldPermissions>

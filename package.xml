@@ -2065,6 +2065,7 @@
         <members>Account.Credit_Threshold_Available__c</members>
         <members>Account.Credit_Threshold__c</members>
         <members>Account.Current_Monetization_platform__c</members>
+        <members>Account.Custom_Formula_Field__c</members>
         <members>Account.Customer_Date__c</members>
         <members>Account.Customer_Survey_Email__c</members>
         <members>Account.DPA_URL__c</members>
