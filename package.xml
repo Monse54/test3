@@ -2070,6 +2070,7 @@
         <members>Account.Customer_Survey_Email__c</members>
         <members>Account.DPA_URL__c</members>
         <members>Account.Data_Enrichment_Charge__c</members>
+        <members>Account.Days_Since_Created__c</members>
         <members>Account.Delivery_Channel__c</members>
         <members>Account.Demand_Side_Platforms_Used_Zoominfo__c</members>
         <members>Account.Demand_Tier__c</members>
@@ -2092,6 +2093,7 @@
         <members>Account.Finance_Department_Budget_in_000s__c</members>
         <members>Account.First_Go_Live_Date_Supply__c</members>
         <members>Account.First_Opportunity_Closed_Won_Date__c</members>
+        <members>Account.First_Order_Date__c</members>
         <members>Account.GST_Number__c</members>
         <members>Account.GST_Type__c</members>
         <members>Account.GST_Uploaded__c</members>
@@ -2101,6 +2103,7 @@
         <members>Account.HS_Last_Opp_created_date__c</members>
         <members>Account.Handover_Date__c</members>
         <members>Account.Has_Activity__c</members>
+        <members>Account.Hello_Date__c</members>
         <members>Account.Holding_Agency_Name__c</members>
         <members>Account.IBANNumber__c</members>
         <members>Account.IFSC_Code__c</members>
@@ -2297,6 +2300,7 @@
         <members>Account.Theme__c</members>
         <members>Account.This_Month_Churned__c</members>
         <members>Account.This_Month_Customer__c</members>
+        <members>Account.Three_Days_From_Today__c</members>
         <members>Account.Today_Date__c</members>
         <members>Account.Top_Account__c</members>
         <members>Account.Total_Allocated_Budget__c</members>
@@ -2307,6 +2311,7 @@
         <members>Account.Total_Rolledup_Sales__c</members>
         <members>Account.Total_Sales__c</members>
         <members>Account.Trading_Agreement_Name__c</members>
+        <members>Account.Two_Days_From_Today__c</members>
         <members>Account.Type_of_Disclosure__c</members>
         <members>Account.Ultimate_Parent_Company_Name_ZI__c</members>
         <members>Account.Ultimate_Parent_Company_Zoominfo_ID__c</members>
@@ -2325,6 +2330,7 @@
         <members>Account.Zoominfo_Annual_Revenue_000__c</members>
         <members>Account.attachment_required__c</members>
         <members>Account.number_of_free_trial_IOs__c</members>
+        <members>AccountBrand.Custom_Formula_Field__c</members>
         <members>AccountTypeUpdate__c.AllowUpdate__c</members>
         <members>Account_Burn_History__c.Account_Name__c</members>
         <members>Account_Burn_History__c.Burn_Month__c</members>
@@ -6327,9 +6333,7 @@
         <members>Ad_Network_Campaign_Module__c.ad_network_account_guid__c</members>
         <members>Case.Campaign_Type__c</members>
         <members>Case.Main_Ticket_Type__c</members>
-        <members>Case.Request_Type__c</members>
         <members>Case.Verification_Requester__c,Main_Ticket_Type__c</members>
-        <members>Insertion_Order__c.Child_IO__c</members>
         <members>Insertion_Order__c.Standard_Number__c</members>
         <members>Payment_Received_Log__c.Payment_ID__c,Payment_Received_Status__c</members>
         <members>Revenue_And_Invoice_Excel_Row__c.ParentId__c</members>
@@ -21153,6 +21157,7 @@
         <members>Account.Block_Payment_Collected_field</members>
         <members>Account.Client_POC_and_Billing_Data_Source_Empty</members>
         <members>Account.CommonFinanceValidationRule</members>
+        <members>Account.Contact_Name_Validation</members>
         <members>Account.Countries_in_Blocked_List</members>
         <members>Account.Credit_Limit_Amount_Should_Be_Greater</members>
         <members>Account.Credit_Limit_cannot_be_changed_back_to_0</members>
@@ -21256,6 +21261,7 @@
         <members>Contact.Account_MDM_Blocked</members>
         <members>Contact.Account_needs_approval</members>
         <members>Contact.Contact_First_Name_is_Mandatory</members>
+        <members>Contact.Contact_Name_Validation</members>
         <members>Contact.Email_Skype_Phone_is_Mandatory</members>
         <members>Contact.Last_Contact_Date_Validation</members>
         <members>Contact.Lead_Source_is_Mandatory</members>
