@@ -2082,6 +2082,7 @@
         <members>Account.DoD_Sales__c</members>
         <members>Account.ERP_Account_Status__c</members>
         <members>Account.ERP_Failure_Reason__c</members>
+        <members>Account.Eight_Days_From_Today__c</members>
         <members>Account.Employee_Count__c</members>
         <members>Account.Enable_Fund_Management__c</members>
         <members>Account.Enterprise_Account_Owner__c</members>
@@ -2094,6 +2095,7 @@
         <members>Account.First_Go_Live_Date_Supply__c</members>
         <members>Account.First_Opportunity_Closed_Won_Date__c</members>
         <members>Account.First_Order_Date__c</members>
+        <members>Account.Four_Days_From_Today__c</members>
         <members>Account.GST_Number__c</members>
         <members>Account.GST_Type__c</members>
         <members>Account.GST_Uploaded__c</members>
@@ -2171,6 +2173,11 @@
         <members>Account.Network_IO__c</members>
         <members>Account.New_Consume_Credit_Threshold__c</members>
         <members>Account.New_Formula_Field__c</members>
+        <members>Account.Next_11_Days__c</members>
+        <members>Account.Next_3_Days__c</members>
+        <members>Account.Next_9_Days__c</members>
+        <members>Account.Next_Five_Days__c</members>
+        <members>Account.Next_Six_Days__c</members>
         <members>Account.No_of_Won_Opportunities__c</members>
         <members>Account.Number_of_Locations__c</members>
         <members>Account.Number_of_Opportunities__c</members>
@@ -2260,6 +2267,7 @@
         <members>Account.Sales_Account_Owner__c</members>
         <members>Account.Sales_Department__c</members>
         <members>Account.Screening_Case__c</members>
+        <members>Account.Seven_Days_From_Today__c</members>
         <members>Account.Size__c</members>
         <members>Account.SmartAmisActive__c</members>
         <members>Account.SmartPayBDisactive__c</members>
@@ -2295,6 +2303,7 @@
         <members>Account.TAX_ID__c</members>
         <members>Account.Tax_With_Holding_Information__c</members>
         <members>Account.Technologies__c</members>
+        <members>Account.Ten_Days_From_Today__c</members>
         <members>Account.Theme_Demand__c</members>
         <members>Account.Theme_Supply__c</members>
         <members>Account.Theme__c</members>
