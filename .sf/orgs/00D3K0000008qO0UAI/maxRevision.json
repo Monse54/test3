@@ -1,5 +1,5 @@
 {
-    "serverMaxRevisionCounter": 9467,
+    "serverMaxRevisionCounter": 9475,
     "sourceMembers": {
         "ListView__Account.My_Account_All": {
             "serverRevisionCounter": 9371,
@@ -1608,6 +1608,18 @@
             "lastRetrievedFromServer": null,
             "memberType": "ApexClass",
             "isNameObsolete": true
+        },
+        "CustomField__Account.Days_From_Today__c": {
+            "serverRevisionCounter": 9473,
+            "lastRetrievedFromServer": 9473,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "ValidationRule__Account.PrimaryOwnerMediaRequired": {
+            "serverRevisionCounter": 9475,
+            "lastRetrievedFromServer": 9475,
+            "memberType": "ValidationRule",
+            "isNameObsolete": false
         }
     }
 }

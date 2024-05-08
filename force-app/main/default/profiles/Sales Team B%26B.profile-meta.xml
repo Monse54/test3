@@ -109,6 +109,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Account.Days_From_Today__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Account.Days_Since_Created__c</field>
         <readable>false</readable>
     </fieldPermissions>

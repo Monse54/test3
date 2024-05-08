@@ -2070,6 +2070,7 @@
         <members>Account.Customer_Survey_Email__c</members>
         <members>Account.DPA_URL__c</members>
         <members>Account.Data_Enrichment_Charge__c</members>
+        <members>Account.Days_From_Today__c</members>
         <members>Account.Days_Since_Created__c</members>
         <members>Account.Delivery_Channel__c</members>
         <members>Account.Demand_Side_Platforms_Used_Zoominfo__c</members>
@@ -21190,6 +21191,7 @@
         <members>Account.Payment_Mode_Restriction</members>
         <members>Account.Prevent_Account_Status_Demand_Update</members>
         <members>Account.Prevent_Account_Status_Supply_Update</members>
+        <members>Account.PrimaryOwnerMediaRequired</members>
         <members>Account.Privacy_RegionSpecific</members>
         <members>Account.RSO_Channel_Change_Validation</members>
         <members>Account.Reason_for_Blocking_Account_is_Mandatory</members>
