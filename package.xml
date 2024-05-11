@@ -1927,6 +1927,7 @@
         <members>standard__AppLauncher</members>
         <members>standard__Chatter</members>
         <members>standard__Community</members>
+        <members>standard__FlowsApp</members>
         <members>standard__LightningSales</members>
         <members>standard__LightningSalesConsole</members>
         <members>standard__LightningService</members>
@@ -7104,6 +7105,7 @@
         <members>FlowOrchestrationStageInstance</members>
         <members>FlowOrchestrationStepInstance</members>
         <members>FlowOrchestrationWorkItem</members>
+        <members>FlowRecord</members>
         <members>ForecastingAdjustment</members>
         <members>ForecastingCategoryMapping</members>
         <members>ForecastingCustomData</members>
@@ -9190,6 +9192,7 @@
         <members>unfiled$public/CPI_D_L_Framework_going_forward_1</members>
         <members>unfiled$public/CPI_D_L_Framework_going_forward_Final</members>
         <members>unfiled$public/CPI_based_IOs_approval_template</members>
+        <members>unfiled$public/CPasswordlessRegistrationEmailTemplate</members>
         <members>unfiled$public/CRM_ALERT_Salesforce_Downtime_betwenn_8_AM_to_10_AM_IST</members>
         <members>unfiled$public/CRM_Alert_08_03_2013</members>
         <members>unfiled$public/CRM_Alert_Rollout_of_new_IO_process_on_Wednesday_March_14</members>
@@ -9204,6 +9207,7 @@
         <members>unfiled$public/CommunityDeviceActEmailTemplate</members>
         <members>unfiled$public/CommunityForgotPasswordEmailTemplate</members>
         <members>unfiled$public/CommunityHeadlessForgotPasswordTemplate</members>
+        <members>unfiled$public/CommunityHeadlessRegistrationTemplate</members>
         <members>unfiled$public/CommunityLockoutEmailTemplate</members>
         <members>unfiled$public/CommunityVerificationEmailTemplate</members>
         <members>unfiled$public/CommunityWelcomeEmailTemplate</members>
@@ -9462,6 +9466,7 @@
         <members>Finance_Home_Page</members>
         <members>Finance_View_UtilityBar</members>
         <members>FlightOrder</members>
+        <members>FlowsApp_UtilityBar</members>
         <members>Free_Trail_IO_Glance</members>
         <members>Glance_Sales_Cloud_UtilityBar</members>
         <members>Glance_Service_Cloud_UtilityBar1</members>
@@ -10875,6 +10880,9 @@
         <members>FlowOrchestrationInstance.All_Orchestration_Instances</members>
         <members>FlowOrchestrationWorkItem.ALL_Open_Work_Items</members>
         <members>FlowOrchestrationWorkItem.All_Work_Items</members>
+        <members>FlowRecord.All_FlowRecords</members>
+        <members>FlowRecord.Errored_FlowRecords</members>
+        <members>FlowRecord.RecentlyModified_FlowRecords</members>
         <members>Generic_Data__c.All</members>
         <members>Generic_Data__c.Creative_Services_SLA</members>
         <members>Head_Of_Finance__c.All</members>
@@ -20616,6 +20624,7 @@
         <members>FlowOrchestrationStageInstance</members>
         <members>FlowOrchestrationStepInstance</members>
         <members>FlowOrchestrationWorkItem</members>
+        <members>FlowRecord</members>
         <members>FlowTestResult</members>
         <members>IMC_ErrorLog__c</members>
         <members>IO_Approver__c</members>
@@ -20670,6 +20679,8 @@
         <members>TodayGoal</members>
         <members>User</members>
         <members>UserAppMenuCustomization</members>
+        <members>UserDefinedLabel</members>
+        <members>UserDefinedLabelAssignment</members>
         <members>UserEmailPreferredPerson</members>
         <members>UserExternalCredential</members>
         <members>UserPrioritizedRecord</members>
