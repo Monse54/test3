@@ -2315,6 +2315,7 @@
         <members>Account.Today_Date__c</members>
         <members>Account.Top_Account__c</members>
         <members>Account.Total_Allocated_Budget__c</members>
+        <members>Account.Total_Amount__c</members>
         <members>Account.Total_Burn__c</members>
         <members>Account.Total_Invoiced_Amount_in_USD__c</members>
         <members>Account.Total_Opp_Amount__c</members>
