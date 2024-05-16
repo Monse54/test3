@@ -105,6 +105,16 @@
     <description>Sales Team and AM Team</description>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Account.Current_Year__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Account.Custom_Field__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Account.Custom_Formula_Field__c</field>
         <readable>false</readable>
     </fieldPermissions>
