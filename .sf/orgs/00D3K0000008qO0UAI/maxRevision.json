@@ -1,5 +1,5 @@
 {
-    "serverMaxRevisionCounter": 9631,
+    "serverMaxRevisionCounter": 9660,
     "sourceMembers": {
         "ListView__Account.My_Account_All": {
             "serverRevisionCounter": 9371,
@@ -1642,6 +1642,24 @@
         "CustomField__Account.Custom_Field__c": {
             "serverRevisionCounter": 9631,
             "lastRetrievedFromServer": 9631,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__Account.Tomorrow_Date__c": {
+            "serverRevisionCounter": 9656,
+            "lastRetrievedFromServer": 9656,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__Account.Yesterday_Date__c": {
+            "serverRevisionCounter": 9658,
+            "lastRetrievedFromServer": 9658,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__Account.Ten_Days_From_Now__c": {
+            "serverRevisionCounter": 9660,
+            "lastRetrievedFromServer": 9660,
             "memberType": "CustomField",
             "isNameObsolete": false
         }

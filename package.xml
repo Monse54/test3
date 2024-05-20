@@ -2307,6 +2307,7 @@
         <members>Account.TAX_ID__c</members>
         <members>Account.Tax_With_Holding_Information__c</members>
         <members>Account.Technologies__c</members>
+        <members>Account.Ten_Days_From_Now__c</members>
         <members>Account.Ten_Days_From_Today__c</members>
         <members>Account.Theme_Demand__c</members>
         <members>Account.Theme_Supply__c</members>
@@ -2315,6 +2316,7 @@
         <members>Account.This_Month_Customer__c</members>
         <members>Account.Three_Days_From_Today__c</members>
         <members>Account.Today_Date__c</members>
+        <members>Account.Tomorrow_Date__c</members>
         <members>Account.Top_Account__c</members>
         <members>Account.Total_Allocated_Budget__c</members>
         <members>Account.Total_Amount__c</members>
@@ -2337,6 +2339,7 @@
         <members>Account.Where_are_We_in_Stack__c</members>
         <members>Account.Wire_Instructions__c</members>
         <members>Account.XuId_Threshold__c</members>
+        <members>Account.Yesterday_Date__c</members>
         <members>Account.ZI_Theme__c</members>
         <members>Account.ZoomInfo_Primary_Industry__c</members>
         <members>Account.ZoomInfo_Primary__c</members>
