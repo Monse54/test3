@@ -2178,6 +2178,7 @@
         <members>Account.New_Consume_Credit_Threshold__c</members>
         <members>Account.New_Formula_Field__c</members>
         <members>Account.Next_11_Days__c</members>
+        <members>Account.Next_17_Days__c</members>
         <members>Account.Next_3_Days__c</members>
         <members>Account.Next_9_Days__c</members>
         <members>Account.Next_Five_Days__c</members>
@@ -7111,7 +7112,6 @@
         <members>FlowOrchestrationStageInstance</members>
         <members>FlowOrchestrationStepInstance</members>
         <members>FlowOrchestrationWorkItem</members>
-        <members>FlowRecord</members>
         <members>ForecastingAdjustment</members>
         <members>ForecastingCategoryMapping</members>
         <members>ForecastingCustomData</members>
@@ -7285,6 +7285,7 @@
         <members>Trigger_Runner__mdt</members>
         <members>Unique_Sequence_Number__c</members>
         <members>User</members>
+        <members>UserCapabilityPreference</members>
         <members>UserExternalCredential</members>
         <members>UserPrioritizedRecord</members>
         <members>UserProvisioningRequest</members>
@@ -10886,9 +10887,6 @@
         <members>FlowOrchestrationInstance.All_Orchestration_Instances</members>
         <members>FlowOrchestrationWorkItem.ALL_Open_Work_Items</members>
         <members>FlowOrchestrationWorkItem.All_Work_Items</members>
-        <members>FlowRecord.All_FlowRecords</members>
-        <members>FlowRecord.Errored_FlowRecords</members>
-        <members>FlowRecord.RecentlyModified_FlowRecords</members>
         <members>Generic_Data__c.All</members>
         <members>Generic_Data__c.Creative_Services_SLA</members>
         <members>Head_Of_Finance__c.All</members>
@@ -20685,6 +20683,7 @@
         <members>TodayGoal</members>
         <members>User</members>
         <members>UserAppMenuCustomization</members>
+        <members>UserCapabilityPreference</members>
         <members>UserDefinedLabel</members>
         <members>UserDefinedLabelAssignment</members>
         <members>UserEmailPreferredPerson</members>
